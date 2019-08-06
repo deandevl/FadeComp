@@ -1,0 +1,30 @@
+{
+  "name": "fadecompdemo",
+  "version": "1.0.0",
+  "description": "A demo of FadeComp.",
+  "main": "src/app.js",
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "repository": "git+https://github.com/deandevl/FadeComp.git",
+  "keywords": [
+    "Vue.js",
+    "FadeComp"
+  ],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/FadeComp/issues"
+  },
+  "homepage": "https://github.com/deandevl/FadeComp#readme",
+  "dependencies": {
+    "fadecomp": "git+https://github.com/deandevl/FadeComp.git",
+    "vue": "^2.5.9"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.0",
+    "less": "^3.9.0",
+    "parcel-bundler": "^1.12.3",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
