@@ -1,0 +1,20 @@
+{
+  "name": "fadecomp",
+  "version": "1.0.0",
+  "description": "A simply Vue.js component (>= 2.5) for fading in/out html content. ",
+  "main": "FadeComp.vue",
+  "repository": "git+https://github.com/deandevl/FadeComp.git",
+  "keywords": [
+    "Vue.js",
+    "FadeComp"
+  ],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/FadeComp/issues"
+  },
+  "homepage": "https://github.com/deandevl/FadeComp#readme",
+  "dependencies": {
+    "vue": "^2.5.9"
+  }
+}
